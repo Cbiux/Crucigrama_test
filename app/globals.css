@@ -38,7 +38,7 @@ body::before {
 .container {
   position: relative;
   z-index: 1;
-  max-width: 960px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 
@@ -98,8 +98,8 @@ body::before {
 
 .main {
   display: grid;
-  grid-template-columns: 1fr 280px;
-  gap: 64px;
+  grid-template-columns: auto 280px;
+  gap: 48px;
   align-items: start;
 }
 
