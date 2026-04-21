@@ -99,7 +99,7 @@ body::before {
 .main {
   display: grid;
   grid-template-columns: 1fr 280px;
-  gap: 32px;
+  gap: 64px;
   align-items: start;
 }
 
